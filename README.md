@@ -19,7 +19,7 @@ Praticar conceitos fundamentais da linguagem Python, como:
 - O jogo continua até o usuário acertar
 - Exibe a quantidade de tentativas realizadas
 
-## Pré-requisitos
+## Tecnologias utilizadas
 
 - Python 3
 - Biblioteca random (nativa do Python)
