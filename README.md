@@ -5,8 +5,8 @@ Projeto de estudo desenvolvido em Python que gera um número aleatório e desafi
 Objetivo do projeto
 
 Praticar conceitos fundamentais da linguagem Python, como:
-  Entrada de dados pelo terminal
-  Estrutura de repetição (while)
+- Entrada de dados pelo terminal
+- Estrutura de repetição (while)
   Uso da biblioteca random
   Uso da biblioteca time
   Contador de tentativas
